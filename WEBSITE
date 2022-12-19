@@ -1,0 +1,85 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>game development</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+ 
+    <div class="img">
+      <nav class="navigation">
+      <div class="logo">
+      <img src="taj mahal.jfif" width="50" height="50">
+    </div>
+    <ul>
+      <li><a href="">Home</a></li>
+      <li><a href="">About</a></li>
+      <li><a href="">Contact</a></li>
+      <li><a href="">Service</a></li>
+    </ul>
+</nav>
+<section class="abc1">
+  <h1 class="box">GAME <span> DEVELOPMENT</span></h1>
+  <P>
+   Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sequi sed fuga, unde earum ea asperiores officiis vitae animi eos facilis ullam maiores quibusdam quae laboriosam consequuntur praesentium, explicabo quam corporis provident aut voluptatem. Reiciendis officia, beatae, iste nobis quibusdam ipsam itaque quo nulla, architecto temporibus expedita nesciunt! Distinctio obcaecati incidunt necessitatibus, consectetur animi reprehenderit porro?</P>
+  <button class="btn">GET START</button>
+</section></div>
+<div class="abc2">
+  <H1>WELCOME TO OUR WEBSITE</H1>
+  <P>
+    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptatem rem expedita reprehenderit consequatur saepe nobis perspiciatis voluptate mollitia, dolorem aperiam quod optio quibusdam, adipisci quia incidunt eveniet quaerat quo aut natus, sequi officia esse rerum assumenda! Fugiat perferendis quasi corporis expedita quo reiciendis explicabo pariatur blanditiis. Laborum quod, animi tempora a rem quidem, corrupti fugiat tempore nobis eligendi ea possimus!</P>
+<button class="bttn">Read More</button>
+  </div>
+<div class="name">
+  <div class="name1">
+    <img src="story.jpg" width="40px" height="40px">
+    <h3>Our Story</h3>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Et sed iusto quisquam laudantium doloribus? Rerum libero maiores nulla facere ipsum voluptates dolorum deserunt minima, doloribus ea nostrum quos laudantium accusamus quia consequuntur, optio officiis. Fugiat natus quam est sapiente ducimus ut aperiam commodi eos, eligendi ad culpa eaque sequi ullam officia vero obcaecati? Suscipit quae in beatae commodi itaque accusantium!</p>
+</div>
+<div class="name2">
+  <img src="mission.png" width="40px" height="40px">
+  <h3>Our Mission</h3>
+  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda et dolores reprehenderit modi, iste alias fugit vel eius magni culpa nam voluptatem quisquam. Fuga, nesciunt illo? Tempore numquam libero beatae similique. Possimus quae accusamus quibusdam autem modi, perspiciatis voluptate quos velit tempora molestias commodi accusantium vero impedit a praesentium esse voluptatem dolores nesciunt quas? Inventore id eos blanditiis cupiditate minus.</p>
+</div>
+<div class="name1">
+  <img src="eye.jpg" width="40px" height="40px">
+  <h3>Our Vision</h3>
+  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex, expedita? Aut soluta alias porro veniam suscipit mollitia repellat aspernatur praesentium fugit magnam doloremque animi sint vero distinctio a reiciendis doloribus deserunt, quos sunt. At eveniet necessitatibus autem pariatur, explicabo, reiciendis officiis doloribus enim consectetur nostrum tempore omnis dignissimos saepe? Tempora non laborum incidunt quo nobis at voluptas asperiores quam cupiditate!</p>
+</div>
+</div>
+  <div class="s2">
+    <h3>Our Service</h3>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia, dolorum ipsam ratione laborum sit delectus ad minima autem ex nobis, iure tempore earum. Animi incidunt iusto, nulla esse deleniti obcaecati architecto numquam officiis ducimus rem eius praesentium, tempore aut labore eveniet aliquid debitis nam dignissimos sint, minima commodi veniam. Dolor quaerat quas obcaecati cum nam itaque, et repellat? Sequi inventore dolor voluptatem ipsum nobis odit!</p>
+  </div>
+  <div class="op">
+    <div class="option1">
+      <div><img src="eye.jpg" width="20px">
+        <p>WEB DESIGN</p></div>
+    <!-- </div> -->
+       <div><img src="mission.png" width="20px">
+            <p>GAME DEVELOPMENT</p></div>
+        <!-- </div> -->
+              <div><img src="story.jpg" width="20px">
+                <p>GAME DEVELOPMENT</p></div>
+                <!-- </div> -->
+               </div>
+
+               <div class="option1">
+                <div><img src="eye.jpg" width="20px">
+                  <p>WEB DESIGN</p></div>
+              <!-- </div> -->
+                 <div><img src="mission.png" width="20px">
+                      <p>GAME DEVELOPMENT</p></div>
+                  <!-- </div> -->
+                        <div><img src="story.jpg" width="20px">
+                          <p>GAME DEVELOPMENT</p></div>
+                          <!-- </div> -->
+                         </div>
+
+  
+  
+</body>
+</html>
